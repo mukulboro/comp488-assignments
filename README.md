@@ -2,7 +2,7 @@
 ## *Repository containing all practical assignments for COMP 488: Neural Networks and Deep Learning*
 
 ✅ Assignment 1: Building a Neural Network From Scratch\
-🚧 Assignment 2\
+✅ Assignment 2: MNIST Digit Classification Using TensorFlow 2.0\
 🚧 Assignment 3\
 🚧 Assignment 4\
 🚧 Assignment 5\
