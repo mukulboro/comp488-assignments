@@ -5,6 +5,6 @@
 ✅ Assignment 2: MNIST Digit Classification Using TensorFlow 2.0\
 ✅ Assignment 3: Performing gradient descent in regression\
 ✅ Assignment 4: Generating song lyrics using RNNs\
-🚧 Assignment 5\
+✅ Assignment 5: Predicting Bitcoin prices using LSTM model\
 🚧 Assignment 6\
 🚧 Assignment 7
